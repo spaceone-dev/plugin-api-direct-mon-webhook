@@ -1,0 +1,9 @@
+---
+name: API Direct Webhook
+service_type: monitoring.Webhook
+image: spaceone/plugin-api-direct-mon-webhook
+labels: []
+template: {}
+capability: {}
+tags:
+  icon: https://spaceone-custom-assets.s3.ap-northeast-2.amazonaws.com/console-assets/icons/spaceone.svg
